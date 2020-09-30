@@ -1,1 +1,1 @@
-[positive encouragement](https://octodex.github.com/images/yaktocat.png)
+![positive encouragement](https://octodex.github.com/images/yaktocat.png)
